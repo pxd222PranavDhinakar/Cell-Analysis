@@ -1,0 +1,131 @@
+Index,File Path,Total Cell Count,Green Cell Count
+1,./trial 2/48h/DFCP1 1ug/DFCP1 1ug 2.tif,251,15
+2,./trial 2/48h/DFCP1 1ug/DFCP1 1ug 3.tif,251,15
+3,./trial 2/48h/DFCP1 1ug/DFCP1 1ug 1.tif,244,17
+4,./trial 2/48h/atg13 0.5/atg13 0.5ug 1.tif,75,21
+5,./trial 2/48h/atg13 0.5/atg13 0.5ug 2.tif,114,25
+6,./trial 2/48h/atg13 0.5/atg13 0.5ug 3.tif,310,28
+7,./trial 2/48h/atg13 2ug/atg13 2ug 1.tif,172,5
+8,./trial 2/48h/atg13 2ug/atg13 2ug 2.tif,150,8
+9,./trial 2/48h/atg13 2ug/atg13 2ug 3.tif,125,1
+10,./trial 2/48h/DFCP1 2ug/DFCP1 2ug 1.tif,251,15
+11,./trial 2/48h/DFCP1 2ug/DFCP1 2ug 2.tif,249,13
+12,./trial 2/48h/DFCP1 2ug/DFCP1 2ug 3.tif,287,16
+13,./trial 2/48h/atg13 1ug/atg13 1ug 2.tif,78,13
+14,./trial 2/48h/atg13 1ug/atg13 1ug 3.tif,157,8
+15,./trial 2/48h/atg13 1ug/atg13 1ug 1.tif,72,17
+16,./trial 2/48h/DFCP1 0.5ug/DFCP1 0.5ug 3.tif,310,28
+17,./trial 2/48h/DFCP1 0.5ug/DFCP1 0.5ug 2.tif,352,18
+18,./trial 2/48h/DFCP1 0.5ug/DFCP1 0.5ug 1.tif,227,15
+19,./trial 2/48h/control/control 3.tif,276,2
+20,./trial 2/48h/control/control 2.tif,323,3
+21,./trial 2/48h/control/control 1.tif,221,3
+22,./trial 2/72h/DFCP1 1ug/DFCP1 1ug 2.tif,207,16
+23,./trial 2/72h/DFCP1 1ug/DFCP1 1ug 3.tif,207,17
+24,./trial 2/72h/DFCP1 1ug/DFCP1 1ug 1.tif,223,9
+25,./trial 2/72h/atg13 2ug/atg13 2ug 1.tif,166,0
+26,./trial 2/72h/atg13 2ug/atg13 2ug 2.tif,183,3
+27,./trial 2/72h/atg13 2ug/atg13 2ug 3.tif,154,0
+28,./trial 2/72h/DFCP1 2ug/DFCP1 2ug 1.tif,226,8
+29,./trial 2/72h/DFCP1 2ug/DFCP1 2ug 2.tif,290,4
+30,./trial 2/72h/DFCP1 2ug/DFCP1 2ug 3.tif,217,9
+31,./trial 2/72h/atg13 1ug/atg13 1ug 2.tif,119,1
+32,./trial 2/72h/atg13 1ug/atg13 1ug 3.tif,110,0
+33,./trial 2/72h/atg13 1ug/atg13 1ug 1.tif,106,1
+34,./trial 2/72h/atg13 0.5ug/atg13 0.5ug 1.tif,168,4
+35,./trial 2/72h/atg13 0.5ug/atg13 0.5ug 2.tif,288,2
+36,./trial 2/72h/atg13 0.5ug/atg13 0.5ug 3.tif,182,2
+37,./trial 2/72h/DFCP1 0.5ug/DFCP1 0.5ug 3.tif,243,37
+38,./trial 2/72h/DFCP1 0.5ug/DFCP1 0.5ug 2.tif,245,39
+39,./trial 2/72h/DFCP1 0.5ug/DFCP1 0.5ug 1.tif,211,17
+40,./trial 2/72h/control/control 3.tif,332,4
+41,./trial 2/72h/control/control 2.tif,249,3
+42,./trial 2/72h/control/control 1.tif,220,4
+43,./trial 2/24 hours/dfcp1 1ug/dfcp1 1ug 2.tif,306,43
+44,./trial 2/24 hours/dfcp1 1ug/dfcp1 1ug 3.tif,260,39
+45,./trial 2/24 hours/dfcp1 1ug/dfcp1 1ug 1.tif,239,43
+46,./trial 2/24 hours/atg13 0.5/Atg13 0.5ug 2.tif,269,9
+47,./trial 2/24 hours/atg13 0.5/Atg13 0.5ug 3.tif,303,11
+48,./trial 2/24 hours/atg13 2ug/Atg13 2ug 1.tif,167,5
+49,./trial 2/24 hours/atg13 2ug/Atg13 2ug 2.tif,160,3
+50,./trial 2/24 hours/atg13 2ug/Atg13 2ug 3.tif,203,11
+51,./trial 2/24 hours/dfcp1 2ug/dfcp1 2ug 1.tif,177,21
+52,./trial 2/24 hours/dfcp1 2ug/dfcp1 2ug 2.tif,242,27
+53,./trial 2/24 hours/dfcp1 2ug/dfcp1 2ug 3.tif,234,20
+54,./trial 2/24 hours/atg13 1ug/Atg13 1ug 2.tif,219,5
+55,./trial 2/24 hours/atg13 1ug/Atg13 1ug 3.tif,165,16
+56,./trial 2/24 hours/atg13 1ug/Atg13 1ug 1.tif,198,8
+57,./trial 2/24 hours/dfcp1 0.5ug/dfcp1 0.5ug 3.tif,271,40
+58,./trial 2/24 hours/dfcp1 0.5ug/dfcp1 0.5ug 2.tif,271,48
+59,./trial 2/24 hours/dfcp1 0.5ug/dfcp1 0.5ug 1.tif,251,46
+60,./trial 2/24 hours/control/control 3.tif,222,3
+61,./trial 2/24 hours/control/control 2.tif,238,3
+62,./trial 2/24 hours/control/control 1.tif,181,1
+63,./trial 1/72 hours/DFCP1 1ug/DFCP1 1ug 2.tif,19,1
+64,./trial 1/72 hours/DFCP1 1ug/DFCP1 1ug 3.tif,27,1
+65,./trial 1/72 hours/DFCP1 1ug/DFCP1 1ug 1.tif,45,0
+66,./trial 1/72 hours/ATG13 2ug/ATG13 2ug 1.tif,76,0
+67,./trial 1/72 hours/ATG13 2ug/ATG13 2ug 2.tif,135,1
+68,./trial 1/72 hours/ATG13 2ug/ATG13 2ug 3.tif,103,0
+69,./trial 1/72 hours/DFCP1 2ug/DFCP1 2ug 1.tif,117,2
+70,./trial 1/72 hours/DFCP1 2ug/DFCP1 2ug 2.tif,115,0
+71,./trial 1/72 hours/DFCP1 2ug/DFCP1 2ug 3.tif,104,2
+72,./trial 1/72 hours/ATG13 1ug/ATG13 1ug 1 (1).tif,58,0
+73,./trial 1/72 hours/ATG13 1ug/ATG13 1ug 2.tif,73,0
+74,./trial 1/72 hours/ATG13 1ug/ATG13 1ug 3.tif,99,0
+75,./trial 1/72 hours/ATG13 1ug/ATG13 1ug 1.tif,0,7
+76,./trial 1/72 hours/ATG13 1ug/ATG13 1ug 1 (3).tif,51,0
+77,./trial 1/72 hours/ATG13 0.5ug/ATG13 0.5ug 1.tif,153,1
+78,./trial 1/72 hours/ATG13 0.5ug/ATG13 0.5ug 2.tif,173,0
+79,./trial 1/72 hours/ATG13 0.5ug/ATG13 0.5ug 3.tif,272,0
+80,./trial 1/72 hours/DFCP1 0.5ug/DFCP1 0.5ug 3.tif,106,0
+81,./trial 1/72 hours/DFCP1 0.5ug/DFCP1 0.5ug 2.tif,106,1
+82,./trial 1/72 hours/DFCP1 0.5ug/DFCP1 0.5ug 1.tif,110,3
+83,./trial 1/72 hours/control/control 3.tif,247,0
+84,./trial 1/72 hours/control/control 2.tif,212,0
+85,./trial 1/72 hours/control/control 1.tif,278,0
+86,./trial 1/48 hours/DFCP1 1ug/DFCP1 1ug 2.tif,48,2
+87,./trial 1/48 hours/DFCP1 1ug/DFCP1 1ug 3.tif,45,1
+88,./trial 1/48 hours/DFCP1 1ug/DFCP1 1ug 1.tif,64,3
+89,./trial 1/48 hours/atg13 0.5/ATG13 0.5ug 1.tif,212,2
+90,./trial 1/48 hours/atg13 0.5/ATG13 0.5ug 2.tif,81,0
+91,./trial 1/48 hours/atg13 0.5/ATG13 0.5ug 3.tif,224,1
+92,./trial 1/48 hours/ATG13 2ug/ATG13 2ug2.tif,157,0
+93,./trial 1/48 hours/ATG13 2ug/ATG13 2ug 1.tif,88,0
+94,./trial 1/48 hours/ATG13 2ug/ATG13 2ug 3.tif,116,0
+95,./trial 1/48 hours/DFCP1 2ug/DFCP1 1ug 2.tif,127,2
+96,./trial 1/48 hours/DFCP1 2ug/DFCP1 1ug 3.tif,95,1
+97,./trial 1/48 hours/DFCP1 2ug/DFCP1 1ug 1.tif,116,4
+98,./trial 1/48 hours/ATG13 1ug/ATG13 1ug 2.tif,122,0
+99,./trial 1/48 hours/ATG13 1ug/ATG13 1ug 3.tif,117,0
+100,./trial 1/48 hours/ATG13 1ug/ATG13 1ug 1.tif,93,0
+101,./trial 1/48 hours/DFCP1 0.5ug/DFCP1 0.5ug 3.tif,127,0
+102,./trial 1/48 hours/DFCP1 0.5ug/DFCP1 0.5ug 2.tif,123,2
+103,./trial 1/48 hours/DFCP1 0.5ug/DFCP1 0.5ug 1.tif,89,4
+104,./trial 1/48 hours/control/control 48h.tif,112,0
+105,./trial 1/48 hours/control/control 48h 3.tif,328,0
+106,./trial 1/48 hours/control/control 48h 2.tif,290,0
+107,./trial 1/24 hours/DFCP1 1ug/DFCP1 1ug 4.tif,71,3
+108,./trial 1/24 hours/DFCP1 1ug/DFCP1 1ug 2.tif,76,5
+109,./trial 1/24 hours/DFCP1 1ug/DFCP1 1ug 3.tif,56,2
+110,./trial 1/24 hours/DFCP1 1ug/DFCP1 1ug 1.tif,47,1
+111,./trial 1/24 hours/ATG13 2ug/ATG13 2ug 1.tif,91,0
+112,./trial 1/24 hours/ATG13 2ug/ATG13 2ug 2.tif,124,0
+113,./trial 1/24 hours/ATG13 2ug/ATG13 2ug 3.tif,130,0
+114,./trial 1/24 hours/ATG13 2ug/ATG13 2ug 4.tif,103,0
+115,./trial 1/24 hours/DFCP1 2ug/DFCP1 2ug 4.tif,163,2
+116,./trial 1/24 hours/DFCP1 2ug/DFCP1 2ug 1.tif,182,1
+117,./trial 1/24 hours/DFCP1 2ug/DFCP1 2ug 2.tif,124,2
+118,./trial 1/24 hours/DFCP1 2ug/DFCP1 2ug 3.tif,127,0
+119,./trial 1/24 hours/ATG13 1ug/ATG13 1ug 2.tif,62,0
+120,./trial 1/24 hours/ATG13 1ug/ATG13 1ug 3.tif,58,0
+121,./trial 1/24 hours/ATG13 1ug/ATG13 1ug 1.tif,82,2
+122,./trial 1/24 hours/ATG13 1ug/ATG13 1ug 4.tif,127,0
+123,./trial 1/24 hours/ATG13 0.5ug/2ug 4.tif,86,1
+124,./trial 1/24 hours/ATG13 0.5ug/2ug 1.tif,206,2
+125,./trial 1/24 hours/ATG13 0.5ug/2ug 3.tif,221,1
+126,./trial 1/24 hours/ATG13 0.5ug/2ug 2.tif,143,2
+127,./trial 1/24 hours/DFCP1 0.5ug/DFCP1 0.5ug 4.tif,64,1
+128,./trial 1/24 hours/DFCP1 0.5ug/DFCP1 0.5ug 3.tif,73,2
+129,./trial 1/24 hours/DFCP1 0.5ug/DFCP1 0.5ug 2.tif,115,1
+130,./trial 1/24 hours/DFCP1 0.5ug/DFCP1 0.5ug 1.tif,102,1
